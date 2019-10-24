@@ -7,7 +7,7 @@ rm bootstrap.bash
 
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
-git clone https://github.com/mathiascreutz/kit-lg211-2019.git
+git clone https://github.com/mathiascreutz/kik-lg211-2019.git
 
 pip install nltk
 python -c "import nltk; nltk.download(['gutenberg'])"
